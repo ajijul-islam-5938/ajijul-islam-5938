@@ -18,7 +18,7 @@ Email : ajijulislam5938@gmail.com
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajijul-islam-5938&theme=shades-of-purple&card_width=870)](https://git.io/streak-stats)
 
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajijul-islam-5938&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajijul-islam-5938&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 
 <h2 align="center">My Skills</h2>
