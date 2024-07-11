@@ -1,4 +1,4 @@
-<img src="https://github.com/ajijul-islam-5938/ajijul-islam-5938/blob/main/Ajijul%20Islam.png" />
+<img src="https://github.com/ajijul-islam-dev/ajijul-islam-dev/blob/main/Ajijul%20Islam.png" />
 
 
 <h1 align='center'>Hi 👋, Iam Ajijul Islam  <br/> Junior Frontend Developer</h1>
@@ -15,10 +15,10 @@ Email : ajijulislam5938@gmail.com
 
 ### 🚀Current Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajijul-islam-5938&theme=shades-of-purple&card_width=870)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajijul-islam-dev&theme=shades-of-purple&card_width=870)](https://git.io/streak-stats)
 
 
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajijul-islam-5938&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajijul-islam-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 
 <h2 align="center">My Skills</h2>
@@ -61,8 +61,8 @@ Email : ajijulislam5938@gmail.com
 - Bangla Trips is a website offering information about various travel packages and tours in Bangladesh. It features a range of travel options, highlights key destinations, and provides detailed itineraries and pricing. The site aims to help users explore the cultural and natural beauty of Bangladesh through organized trips
 
 ### 👇Links:
-- [client github link](https://github.com/ajijul-islam-5938/bangla-trips-client.git)
-- [server github link](https://github.com/ajijul-islam-5938/bangla-trips-server.git)
+- [client github link](https://github.com/ajijul-islam-dev/bangla-trips-client.git)
+- [server github link](https://github.com/ajijul-islam-dev/bangla-trips-server.git)
 - [Live link](https://assignment-12-819b8.web.app/)
 
 #
@@ -79,8 +79,8 @@ Email : ajijulislam5938@gmail.com
 - The website "Giving Globe" provides a platform for donating to various global causes. It features a map interface highlighting different regions and the specific issues they face, such as poverty, education, and health. Users can select a cause, view detailed information, and contribute directly to make an impact.
 
 ### 👇Links:
-- [client github link](https://github.com/ajijul-islam-5938/giving-globe-client.git)
-- [server github link](https://github.com/ajijul-islam-5938/giving-globe-server.git)
+- [client github link](https://github.com/ajijul-islam-dev/giving-globe-client.git)
+- [server github link](https://github.com/ajijul-islam-dev/giving-globe-server.git)
 - [Live link](https://assignment-11-1edee.web.app/)
 
 
@@ -98,6 +98,6 @@ Email : ajijulislam5938@gmail.com
 - Explore world  is a website offering information about toursist spots in Bangladesh. It features a range of travel options, highlights key destinations, and provides detailed itineraries and pricing. The site aims to help users explore the cultural and natural beauty of Bangladesh through organized trips
 
 ### 👇Links:
-- [client github link](https://github.com/ajijul-islam-5938/explore-world-client.git)
-- [server github link](https://github.com/ajijul-islam-5938/explore-world-server.git)
+- [client github link](https://github.com/ajijul-islam-dev/explore-world-client.git)
+- [server github link](https://github.com/ajijul-islam-dev/explore-world-server.git)
 - [Live link](https://assignment-10-9a5c8.web.app/)
